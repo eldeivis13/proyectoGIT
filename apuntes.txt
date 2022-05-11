@@ -1,0 +1,9 @@
+git status(ver cambios en local)
+
+git add . o nombre archivo(para añadir los cambios al repositorio local)
+
+git commit -m "comentario"(sellar los cambios en el repositorio local)
+
+git push(para subir los cambios al repositorio remoto)
+
+git pull(para bajar todos los cambios del remoto al local)
